@@ -1,0 +1,12 @@
+[submodule "openwrt-dist-luci"]
+	path = openwrt-dist-luci
+	url = https://github.com/aa65535/openwrt-dist-luci.git
+[submodule "openwrt-shadowsocks"]
+	path = openwrt-shadowsocks
+	url = https://github.com/shadowsocks/openwrt-shadowsocks.git
+[submodule "openwrt-shadowvpn"]
+	path = openwrt-shadowvpn
+	url = https://github.com/aa65535/openwrt-shadowvpn.git
+[submodule "openwrt-chinadns"]
+	path = openwrt-chinadns
+	url = https://github.com/aa65535/openwrt-chinadns.git
