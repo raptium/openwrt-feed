@@ -1,3 +1,6 @@
 [submodule "openwrt-passwall2"]
 	path = openwrt-passwall2
 	url = https://github.com/xiaorouji/openwrt-passwall2.git
+[submodule "net/geoview"]
+	path = net/geoview
+	url = https://github.com/snowie2000/geoview.git
